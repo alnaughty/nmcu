@@ -1,0 +1,20 @@
+{
+    "provider": "apple_pay",
+    "data": {
+        "merchantIdentifier": "merchant.com.nomnomapp.nomnom",
+        "displayName": "Nom Nom Delivery App",
+        "countryCode": "PH",
+        "currencyCode": "PHP",
+        "supportedNetworks": [
+            "visa",
+            "masterCard",
+            "amex",
+            "jcb"
+        ],
+        "merchantCapabilities": [
+            "3DS",
+            "debit",
+            "credit"
+        ]
+    }
+}

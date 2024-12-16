@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "660278184036",
+    "project_id": "nomnomdelivery-5cbaa",
+    "storage_bucket": "nomnomdelivery-5cbaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660278184036:android:8557bab401b4d3bd81f771",
+        "android_client_info": {
+          "package_name": "com.nomnom.nomnom_rider_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660278184036-5dgoji6eb7pd49t4qcq4la5m75m422kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nomnom.nomnom_rider_portal",
+            "certificate_hash": "26e818ce056c98bc24e4da84e35f6626af38e472"
+          }
+        },
+        {
+          "client_id": "660278184036-5t4c93qso8qa2g96m9c2q4fv8eou64cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nomnom.nomnom_rider_portal",
+            "certificate_hash": "216f4fd526a8e80657e531fbd3d0833fca905ba9"
+          }
+        },
+        {
+          "client_id": "660278184036-vqdfkma1n6vje0vjlntfbq880ruf7tsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4yXC6JDjJyqc6u74KjSAVIACDC1Io0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660278184036-ofujfcejf2uv9p6bmqmq1r695fg25q3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660278184036-61dblkoctljberf29567g1a7bberpe0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nomnomapp.nomnomMerchantPortal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660278184036:android:00509e40dd83d89181f771",
+        "android_client_info": {
+          "package_name": "com.nomnomapp.nomnom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660278184036-vqdfkma1n6vje0vjlntfbq880ruf7tsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4yXC6JDjJyqc6u74KjSAVIACDC1Io0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660278184036-ofujfcejf2uv9p6bmqmq1r695fg25q3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660278184036-61dblkoctljberf29567g1a7bberpe0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nomnomapp.nomnomMerchantPortal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660278184036:android:cb59abd395a1576581f771",
+        "android_client_info": {
+          "package_name": "com.nomnomapp.nomnom_merchant_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660278184036-vqdfkma1n6vje0vjlntfbq880ruf7tsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4yXC6JDjJyqc6u74KjSAVIACDC1Io0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660278184036-ofujfcejf2uv9p6bmqmq1r695fg25q3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660278184036-61dblkoctljberf29567g1a7bberpe0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nomnomapp.nomnomMerchantPortal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
